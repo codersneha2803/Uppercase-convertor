@@ -1,3 +1,19 @@
+Uppercase Converter
+
+This is a simple ReactJS application that converts text to uppercase. Users can input text into a textarea, and by clicking a button, the text will be converted to uppercase.
+Features
+
+    Converts text to uppercase instantly.
+    Easy-to-use interface with a textarea and a single button.
+
+Technologies Used
+
+    ReactJS
+    JavaScript (ES6)
+    HTML
+    Bootstrap
+    git remote add origin https://github.com/codersneha2803/Uppercase-convertor.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
